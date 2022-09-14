@@ -1,0 +1,11 @@
+{
+  "name": "My First Server",
+  "repo": "https://github.com/cekstedt/LAB-My-First-Server",
+  "challenger": "London App Brewery",
+  "challenge page": "https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12384540",
+  "hosted": null,
+  "original": true,
+  "personal": false,
+  "thumbnail": "thumbnail.png",
+  "technologies": ["html", "javascript", "node", "express"]
+}
